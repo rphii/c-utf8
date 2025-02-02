@@ -2,9 +2,8 @@
 
 ## Dependencies
 
-- [rphii/c-colorprint](https://github.com/rphii/c-colorprint)
 - [rphii/c-err](https://github.com/rphii/c-err)
-- [rphii/c-vec](https://github.com/rphii/c-vec)
+- [rphii/c-vec](https://github.com/rphii/c-str)
 
 ## Installation
 
