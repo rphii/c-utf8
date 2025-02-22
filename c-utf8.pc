@@ -1,0 +1,10 @@
+prefix=/usr
+includedir=${prefix}/include
+libdir=${prefix}/lib/rphii
+
+Name: c-utf8
+Description: C utf8 library
+Cflags: -I${includedir}/rphii
+Libs: -L${libdir} -lutf8
+Version: 9999
+
